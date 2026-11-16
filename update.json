@@ -1,9 +1,9 @@
 {
-  "version": "1.3.4",
-  "code": 134,
+  "version": "1.3.5",
+  "code": 135,
   "force": 0,
-  "changelog": "新增云更新：三源静默检测、双下载源、强制更新、关于与更新源检测",
-  "apk": "ShiChen-1.3.4.apk",
-  "download": "https://cdn.jsdelivr.net/gh/LZH3100452752/SCXZ@main/{apk}",
-  "download_backup": "https://raw.giteeusercontent.com/LZH3100452752/SCXZ/raw/main/{apk}"
+  "changelog": "进行显示优化",
+  "apk": "ShiChen-1.3.5.apk",
+  "download": "https://cdn.jsdelivr.net/gh/LZH3100452752/SCXZ@main/ShiChen-1.3.5.apk",
+  "download_backup": "https://raw.giteeusercontent.com/LZH3100452752/SCXZ/raw/main/ShiChen-1.3.5.apk"
 }
