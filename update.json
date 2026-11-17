@@ -1,9 +1,9 @@
 {
-  "version": "1.3.5",
-  "code": 135,
+  "version": "1.3.6",
+  "code": 136,
   "force": 0,
-  "changelog": "修复优化显示问题",
-  "apk": "ShiChen-1.3.5.apk",
-  "download": "https://cdn.jsdelivr.net/gh/LZH3100452752/SCXZ@main/ShiChen-1.3.5.apk",
-  "download_backup": "https://raw.giteeusercontent.com/LZH3100452752/SCXZ/raw/main/ShiChen-1.3.5.apk"
+  "changelog": "增加AI润色",
+  "apk": "ShiChen-1.3.6.apk",
+  "download": "https://cdn.jsdelivr.net/gh/LZH3100452752/SCXZ@main/ShiChen-1.3.6.apk",
+  "download_backup": "https://raw.giteeusercontent.com/LZH3100452752/SCXZ/raw/main/ShiChen-1.3.6.apk"
 }
